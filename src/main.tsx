@@ -7,6 +7,5 @@ import FormState from "./FormState";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <FormHookForm />
-    {/* <FormState /> */}
   </React.StrictMode>
 );
